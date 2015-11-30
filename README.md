@@ -1,2 +1,1 @@
-# datascience-handbook
-data science handbook (data analysis in python with Pandas and Seaborn)
+We are open-sourcing the code for the book *Practical Data Analysis with Python* originally written in September 2014 and published in January 2015. It is a book about data analysis and visualization in Python using Pandas and Seaborn. If you cite the code please link back to this repo. If you are interested in a pdf or epub, you can get that [here](http://leanpub.com/analyticshandbook). The cleaned datasets used in the book are available at that link as well. The raw data is available [here](http://www.bayareabikeshare.com/open-data). The book is based on Pandas v. 14. There have been some improvements to the api since then especially in date/time.
